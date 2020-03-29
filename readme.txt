@@ -1,5 +1,5 @@
 === Advanced Custom Fields: Section Styles Field ===
-Contributors: ractoon
+Contributors: Dominik Kucharski, ractoon
 Tags: css acf
 Requires at least: 4.6
 Tested up to: 4.6.1

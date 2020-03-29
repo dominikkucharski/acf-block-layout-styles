@@ -1,12 +1,12 @@
 <?php
 
 /*
-Plugin Name: Advanced Custom Fields: Section Styles
-Plugin URI: https://www.ractoon.com
+Plugin Name: Advanced Custom Fields: Block Layout Styles
+Plugin URI: https://mino.pro
 Description: Adds a field to configure styles including padding, border, margin, and backgrounds.
 Version: 1.2.2
-Author: ractoon
-Author URI: https://www.ractoon.com
+Author: mino
+Author URI: https://mino.pro
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -45,7 +45,7 @@ if ( !class_exists('acf_plugin_section_styles') ) :
 
 			// set text domain
 			// https://codex.wordpress.org/Function_Reference/load_plugin_textdomain
-			load_plugin_textdomain( 'acf-section_styles', false, plugin_basename( dirname( __FILE__ ) ) . '/lang' ); 
+			load_plugin_textdomain( 'acf-section_styles', false, plugin_basename( dirname( __FILE__ ) ) . '/lang' );
 
 
 			// include field
