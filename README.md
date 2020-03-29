@@ -2,7 +2,7 @@
 
 Adds a field to configure styles including padding, border, margin, and backgrounds.
 
-Based on ![ractoon/acf-section-styles
+Based on [ractoon/acf-section-styles
 ](https://github.com/ractoon/acf-section-styles)
 
 ![ACF PRO Section Styles Field Screenshot](/assets/images/acf-pro-section-styles-field.png?raw=true)
